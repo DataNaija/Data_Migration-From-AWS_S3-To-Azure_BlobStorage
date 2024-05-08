@@ -1,4 +1,4 @@
-# Data_Migration_AWS_S3_Azure_BlobStorage
+# Data_Migration_AWS_S3 to Azure_BlobStorage
 
 Migrating data from AWS S3 to Azure Blob Storage using Azure DataFactory.
 
